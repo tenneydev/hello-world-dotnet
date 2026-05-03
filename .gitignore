@@ -7,7 +7,7 @@
 .env
 
 # Claude Code local config
-.claude/
+.claude/settings.local.json
 
 # User-specific files
 *.rsuser
